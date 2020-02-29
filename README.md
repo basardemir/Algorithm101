@@ -14,7 +14,7 @@ Participants will learn to solve the problems that we encounter in daily life or
 
 ## Lecture Day and Time
 
-Every Thursday,[ 18:00 - 19:30 ]
+Every Thursday,[ 18:00 - 19:30 ], EEB 5103
 
 ## Problem Solving
 
