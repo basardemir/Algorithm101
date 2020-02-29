@@ -14,7 +14,7 @@ Participants will learn to solve the problems that we encounter in daily life or
 
 ## Lecture Day and Time
 
-Every Wednesday, [ 17:45 - 19:15 ] or [ 18:15 - 19:30 ]
+Every Thursday, [ 17:45 - 19:15 ] or [ 18:15 - 19:30 ]
 
 ## Problem Solving
 
@@ -27,6 +27,10 @@ You should sign up to Hackerrank and Codeforces for being participant of our wee
 | 1.Hafta | Introduction, Sort and Search Algorithms | Mehmet Altuner |
 | 2.Hafta | Graph1 | Burak Buldu |
 | 3.Hafta | Dynamic Programming | Ömer Faruk Özkan |
+| 4.Hafta | | Mehmet Altuner |
+| 4.Hafta | Data Structures| Mehmet Altuner |
+| 4.Hafta | Data Structures| Mehmet Altuner |
+| 4.Hafta | Data Structures| Mehmet Altuner |
 | 4.Hafta | Data Structures| Mehmet Altuner |
 
 
