@@ -36,10 +36,11 @@ You should sign up to Hackerrank and Codeforces for being participant of our wee
 
 | Name and Surname | Social  |
 |--|--|
-| Mehmet Altuner #3 | |
+| Mehmet Altuner #3 |[*LinkedIn*](https://www.linkedin.com/in/mehmet-altuner/)  |
 | Ömer Faruk Özkan  #2 | |
-| Burak Buldu #2 | [*LinkedIn*]() |
-| Başar DEMİR #2 | [*LinkedIn*](https://www.linkedin.com/in/basardemir/) |
+| Burak Buldu #1 | [*LinkedIn*]() |
+| Başar DEMİR #2 | [*LinkedIn*]() |
+| Ali Cafer Özer #2 | [*LinkedIn*](https://www.linkedin.com/in/ali-cafer-%C3%B6zer-859063147/) |
 
 
 ## Important Links
